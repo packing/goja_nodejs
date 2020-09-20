@@ -3,9 +3,9 @@ package console
 import (
 	"log"
 
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/require"
-	_ "github.com/dop251/goja_nodejs/util"
+	"github.com/packing/goja"
+	"github.com/packing/goja_nodejs/require"
+	_ "github.com/packing/goja_nodejs/util"
 )
 
 type Console struct {

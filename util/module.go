@@ -2,8 +2,8 @@ package util
 
 import (
 	"bytes"
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/require"
+	"github.com/packing/goja"
+	"github.com/packing/goja_nodejs/require"
 )
 
 type Util struct {

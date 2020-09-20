@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dop251/goja"
+	"github.com/packing/goja"
 )
 
 func TestRun(t *testing.T) {

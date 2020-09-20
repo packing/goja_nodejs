@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	js "github.com/dop251/goja"
+	js "github.com/packing/goja"
 )
 
 // NodeJS module search algorithm described by

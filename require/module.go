@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"text/template"
 
-	js "github.com/dop251/goja"
+	js "github.com/packing/goja"
 )
 
 type ModuleLoader func(*js.Runtime, *js.Object)

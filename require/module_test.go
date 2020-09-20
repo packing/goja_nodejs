@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	js "github.com/dop251/goja"
+	js "github.com/packing/goja"
 )
 
 func mapFileSystemSourceLoader(files map[string]string, t *testing.T) SourceLoader {
